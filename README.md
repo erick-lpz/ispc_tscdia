@@ -1,5 +1,3 @@
-<p align="center">
-    <a href="https://ibb.co/df62wj7"><img src="https://i.ibb.co/df62wj7/banner.png" alt="banner" border="0" width="100%"></a>
-</p>
+# Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
 
-# Erick López
+- Erick López
